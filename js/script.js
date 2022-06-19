@@ -28,7 +28,8 @@ const personalMovieDB = {
         console.log('Вы киноман');
     }
 
-
-
-
 console.log(personalMovieDB);
+
+
+
+
